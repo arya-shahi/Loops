@@ -10,7 +10,7 @@ In programming, loops are fundamental constructs that enable developers to contr
 
 **ALGORITHM**
 
-## 1)
+ 1)
 Start a loop with a variable i initialized to 0.
 Continue the loop while i is less than or equal to 10.
 If i is 3 or 5, skip the current iteration 
@@ -19,7 +19,7 @@ After processing, increment the value of i by 1.
 Repeat steps 2-4 until the loop condition (i <= 10) is no longer true.
 Exit the loop and terminate the program.
 
-## 2)
+ 2)
 Begin execution of the program.
 Set a variable i to 1.
 Check if i is less than or equal to 5.
@@ -28,7 +28,7 @@ Increase the value of i by 1.
 Repeat steps 3 to 5 until i exceeds 5.
  After exiting the loop, complete the program.
 
-## 3)
+ 3)
 Set i to 1.
 Set j to 5.
 Ensure j is greater than or equal to i.
@@ -37,7 +37,7 @@ Decrement j.
 After the inner loop ends, print a newline to start the next row.
 End the program after completing all rows.
 
-## 4)
+4)
 Initialize k to n.
 Print * if the column index is greater than or equal to k.
 Print a space otherwise.
